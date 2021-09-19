@@ -3,12 +3,14 @@ Assembly language projects for tutorials and research.
 
 Used for **PIC microcontrollers**.
 
-Most of the files were designed for the purpose of classroom instruction.
+Most of the files were designed for the purpose of classroom instruction for the Digital Electronics Class (Electrónica II) in the FCFM-BUAP.
 
 ### Timers (0 and 1)
+
 - Timer0
 - Timer0 Interruption
 - Timer1
+
 ### Mathematical Operations
 
 - Addition
@@ -16,6 +18,7 @@ Most of the files were designed for the purpose of classroom instruction.
 - Multiplication by Rotation
 
 ### Counting
+
 Various printing methods are used (LEDs, 8-segment-Display(s), LED Matrix)
 - Binary Counter
 - Binary Counter RB0
@@ -26,6 +29,7 @@ Various printing methods are used (LEDs, 8-segment-Display(s), LED Matrix)
 - LED Matrix
 
 ### Special Tutorials
+
 - PWM
 - Frecuencimeter
 - SPI Master
