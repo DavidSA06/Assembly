@@ -3,7 +3,7 @@ Assembly language projects for tutorials and research.
 
 Used for **PIC microcontrollers**.
 
-Most of the files were designed for the purpose of classroom instruction.
+Most of the files were designed for the purpose of classroom instruction for the Digital Electronics Class (Electrónica II) in the FCFM-BUAP. Remember to star this project if you like it.
 
 ### Timers (0 and 1)
 
