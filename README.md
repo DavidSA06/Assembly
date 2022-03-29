@@ -36,6 +36,6 @@ Various printing methods are used (LEDs, 8-segment-Display(s), LED Matrix)
 - SPI Master
 - SPI Slave
 
-**CAD3CHPIC40P** is a program that can obtain measurements from three analog sensors. You can download the program to use it [here](https://drive.google.com/open?id=1dlHm4mxXeqj1wB8x2MhkZWDrKY0Njtm3&authuser=ddsilvaa06%40gmail.com&usp=drive_fs).
+**CAD3CHPIC40P** is a program that can obtain measurements from three analog sensors. You can download the LabView program that extract the data while measuring [here](https://drive.google.com/open?id=1dlHm4mxXeqj1wB8x2MhkZWDrKY0Njtm3&authuser=ddsilvaa06%40gmail.com&usp=drive_fs).
 
 In **Pending_Projects** directory there are files that need a revision or translation.
